@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @B-Chandra-shekar
+- 👋 Hi, I’m @B-Chandra-shekar - UI developer
 - 👀 I’m interested in learning new technologies like AI and the latest UI tech
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Angular projects
